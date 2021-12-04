@@ -1,0 +1,29 @@
+/*This is the affiliated CSS sheet for final_template.html.*/
+
+button {
+	margin-left: 10px;
+}
+.accordion {
+	margin-bottom: 30px;
+}
+.accordion-button {
+	font-weight: bold;
+}
+.fixed-bottom {
+	margin-left: 10px;
+	margin-top: 30px;
+	padding: 5px;
+	text-align: center;
+}
+#headline {
+	color: #0e402d;
+	font-family: "Didot", serif;
+}
+
+#butterfly {
+	font-family:  "Didot", serif;
+}
+
+#tiger {
+	font-family: "Didot", sans-serif;
+}
